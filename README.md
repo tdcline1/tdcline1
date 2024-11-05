@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @tdcline1
-- 👀 I’m interested in learning how to code! Hiking, lifiting weights and traveling
-- 🌱 I’m currently taking CS50 as my first step
-- 💞️ I’m looking to collaborate on ...
-- 📫 Reach me at tdcline1aol.com
+- 👀 I’m interested in learning how to code! Hiking, lifting weights and traveling
+- 🌱 I’m currently working through IBM's Full Stack Software Developer Ceertificate
+- 💞️ I’m looking to collaborate on your next project
+- 📫 Reach me at tdcline3@gmail.com
 
 <!---
 tdcline1/tdcline1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
