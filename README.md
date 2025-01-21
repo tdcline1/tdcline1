@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tdcline1
-- 👀 I’m interested in learning how to code! Hiking, lifting weights and traveling
-- 🌱 I’m currently working through IBM's Full Stack Software Developer Ceertificate
+- 👀 I love the challenge that coding presents! Hiking, lifting weights and traveling
+- 🌱 I’m currently working through IBM's Full Stack Software Developer Certificate
 - 💞️ I’m looking to collaborate on your next project
 - 📫 Reach me at tdcline3@gmail.com
 
