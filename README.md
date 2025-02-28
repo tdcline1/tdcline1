@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Thomas Cline!  
-🚀 Full-Stack Developer | Former Civil Engineer | Passionate About Learning & Problem-Solving  
+🚀 Full-Stack Developer | Passionate About Learning & Problem-Solving  
 
 I’m a self-motivated developer who transitioned from civil engineering, bringing strong problem-solving skills, teamwork, and attention to detail to software development. 
 
