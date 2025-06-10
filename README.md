@@ -1,11 +1,12 @@
 # 👋 Hi, I'm Thomas Cline!  
 🚀 Full-Stack Developer | Passionate About Learning & Problem-Solving  
 
-I’m a self-motivated developer who transitioned from civil engineering, bringing strong problem-solving skills, teamwork, and attention to detail to software development. 
+I’m a self-motivated developer who transitioned from civil engineering.
+
+I bring strong problem-solving skills, teamwork, and attention to detail to software development. 
 
 Every day, I work hard to improve my skills, tackle challenging projects, and expand my knowledge. 
 
-I'm passionate about learning and growing as a full-stack developer and am currently seeking opportunities to contribute, collaborate, and make an impact.
 
 ## 🛠 Tech Stack  
 **Backend**  
@@ -17,12 +18,22 @@ I'm passionate about learning and growing as a full-stack developer and am curre
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-**Database & DevOps**  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+## 🚀 Featured Projects  
 
-## 🚀 Featured Project  
+### [MapMates](https://github.com/tdcline1/Map-Mates) 🌎
+ An interactive full-stack travel experiences app where users can add and explore places on a Mapbox-powered map, with dynamic modals, image uploads, and JWT authentication.
+
+**🛠 Tech Stack:** Django REST Framework, React, Mapbox GL JS, PostgreSQL, SimpleJWT
+
+**✨ Key Features:**  
+- **DRF Backend:** Custom JWT auth with refresh handling, nested serializers, and optimized queries  
+- **React Frontend:** Map-first UX with modal overlays and centralized auth state via React Context  
+- **Mapbox Integration:** Dynamic markers and popups rendered from GeoJSON with secure token usage  
+- **Media Handling:** Upload and manage multiple images per place with custom `FormData` parsing and model linking  
+- **Testing:** Unit and integration tests for models, views, and serializers using Django’s and DRF’s test tools  
+- **Deployment-Ready:** Local dev with `npm run dev` and `python manage.py runserver`; structured for future cloud scaling
+
 ### [Car Dealership App](https://github.com/tdcline1/Car-Dealership-App) 🚙  
 A full-stack web application for browsing dealership reviews and inventory, integrating microservices and sentiment analysis.  
 
